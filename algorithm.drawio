@@ -1,1 +1,49 @@
-<mxfile host="app.diagrams.net" modified="2020-12-12T22:55:26.581Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="ngxm9gUuOdnqe67kt5pS" version="14.0.1" type="github"><diagram id="qwJWo_Py-0srWfvXwYmj" name="Page-1">7Vhdb5swFP01kbZKq8JnyGvTbnvYtIdMavvowA14NRgZE8J+/a7BQChpkk5Nk0h9su/xB/a5Pr7XjKxZvP4mSBr95AGwkTkO1iPrdmSaxmTqYqGQskZc16yBUNBAd+qAOf0LGhxrNKcBZL2OknMmadoHfZ4k4MseRoTgRb/bkrP+V1MSwgCY+4QN0XsayKhGPWfc4d+BhlHzZWOsW2LSdNZAFpGAFxuQdTeyZoJzWdfi9QyYIq/hpR739YXWdmECEnnIgPRxerOaeySxIlvIEu4j4X1x9Npk2WwYAty/NhOeYHEjeJ4EoKYZo8WFjHjIE8J+cJ4iaCD4B6QstfdILjlCkYyZbsUVivJBj6+MR2VcO415u95svC0ba03lQzMH1utRpqPNbpQymkH1jtQ2XiRKQxnPhQ872GkOHBEhyB397NadqAPgMeAmcJwARiRd9ddB9IEM236dz7Ci3fYKFzZKuSgfnp0LJyd1oXWBLpycnQ8N86ROrOddEZbrL/0uOALzPB54t+/KIqIS5impSCgwjvbdtqSMzTjjohprLT0ffB/xTAr+BBstC8+xnY77FQgJ693sD8nSA9prRcdtq4lrRRcFjSa0RRsR0B0fiV9rwO9C5BKqoK7Oz0BBjGGSAK/mN3DAC+xt/HrmwnLdt+HXcfr8GsaB/HrH4te9wDvo3a4g+8AryDrlDWQPFILKUAwQP8IiyeMFoD1T80gQpBKPjNCnYVTVoFpqJrHgyxbBNJqUVd6ttEaToG3BHFfN7DKk5GaBU7uhqv36lFxdmZ933HrGflW+gcZM+5nG3C0ac7dobHosjU0/NLYnBTtAY94pNTYZaEyAz0WniRXN8FwHG3rDnSvhEFWliTpquColnvT67CTShpd9EpkcSyLegGCkK6r5uvAY35J9shhvDJNUWSWpKacJhoTswhm2pidn2P644ve90A55yr3g93d6ypkDmWTopEFGRKpcyBegU6lnUhoXhD3RJFR9GM9ULDiz697e9urYdt3/x6sOze7nZtW28YvYuvsH</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-12-14T15:28:37.618Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="vYKMXZfwHOh19zG3IjxW" version="14.0.1" type="github">
+  <diagram id="qwJWo_Py-0srWfvXwYmj" name="Page-1">
+    <mxGraphModel dx="788" dy="552" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="pY9BvS8an3h4rtyeWhr8-5" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" parent="1" source="pY9BvS8an3h4rtyeWhr8-1" target="pY9BvS8an3h4rtyeWhr8-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pY9BvS8an3h4rtyeWhr8-10" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="pY9BvS8an3h4rtyeWhr8-1" target="pY9BvS8an3h4rtyeWhr8-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pY9BvS8an3h4rtyeWhr8-13" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" parent="1" source="pY9BvS8an3h4rtyeWhr8-1" target="pY9BvS8an3h4rtyeWhr8-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pY9BvS8an3h4rtyeWhr8-1" value="Two Sum" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="30" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pY9BvS8an3h4rtyeWhr8-3" value="brute force" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="590" y="110" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pY9BvS8an3h4rtyeWhr8-6" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="pY9BvS8an3h4rtyeWhr8-4" target="pY9BvS8an3h4rtyeWhr8-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pY9BvS8an3h4rtyeWhr8-4" value="for each number, iterate through the rest of the array to find the match&lt;br&gt;O(n**2)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="280" y="160" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="pY9BvS8an3h4rtyeWhr8-9" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="pY9BvS8an3h4rtyeWhr8-7" target="pY9BvS8an3h4rtyeWhr8-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pY9BvS8an3h4rtyeWhr8-7" value="record the visited number so far in has map." style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="280" y="280" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="pY9BvS8an3h4rtyeWhr8-8" value="hash map" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="590" y="240" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pY9BvS8an3h4rtyeWhr8-11" value="two pointers" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="590" y="390" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pY9BvS8an3h4rtyeWhr8-14" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="pY9BvS8an3h4rtyeWhr8-12" target="pY9BvS8an3h4rtyeWhr8-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pY9BvS8an3h4rtyeWhr8-12" value="sort the array and create two pointers walking closer" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="280" y="410" width="160" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
